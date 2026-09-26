@@ -19,7 +19,7 @@ Kitsuu Games is a small independent studio in France.
 ***
 ## Links
 
-[![Website](https://img.shields.io/badge/Website-FF6B35?style=flat-square&logo=fireship&logoColor=white "Website")](https://kitsuugames.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white "Twitter")](https://twitter.com/ItIsKitsuu)
+[![Website](https://img.shields.io/badge/Website-FF6B35?style=flat-square&logo=fireship&logoColor=white "Website")](https://kitsuugames.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white "Twitter")](https://twitter.com/KitsuuGames)
 ***
 
 ### Thanks for stopping by!
