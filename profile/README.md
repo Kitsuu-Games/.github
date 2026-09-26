@@ -9,13 +9,13 @@ Kitsuu Games is a small independent studio in France.
 
 [![Kitsuny Valley](https://kitsuugames.com/uploads/mu49q0s1-bbb494450c66.webp)](https://kitsunyvalley.com)
 
-**[Kitsuny Valley](https://kitsunyvalley.com)** — A cozy 2D pixel-art farming game, heading to Steam / itch.io / GOG
+**[Kitsuny Valley](https://kitsunyvalley.com)** - A cozy 2D pixel-art farming game, heading to Steam / itch.io / GOG
 
 <br>
 
 ![Astral Overlay](https://kitsuugames.com/uploads/mu17iqkw-4dd26a39609a.webp)
 
-**Astral Overlay** — A free, open-source SteamVR overlay, built as an alternative to paid options
+**Astral Overlay** - A free, open-source SteamVR overlay, built as an alternative to paid options
 ***
 ## Links
 
